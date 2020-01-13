@@ -1,0 +1,19 @@
+Encapsulation 
+-Advantages:
+	- Allows the programmer to hide the classes within the main and allows the user to give access only to a certain code 
+
+Inheritance 
+- Disadvantages:
+	- Higher time and effort for the program to go through all of the different classes 
+	- One of the main disadvantages of this principle would be that the two classes (main and inherited) cannot be utilized freely other than through each other 
+
+Polymorphism
+-Advantages:
+	- Allows programmers to reuse code and classes when it is already written, tested and used. 
+-Disadvantages: 
+	- It is difficult for developers to use polymorphjism in codes 
+	- It reduces the readability of that given program 
+
+Abstraction
+- Disadvantages:
+	- Abstract classes in a program cannot be instantiated. However, this itself would not be a significant disadvantage considering that it is not common to create an object of an abstract class 
